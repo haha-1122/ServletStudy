@@ -122,8 +122,7 @@
         
 
 -    ## Servlet lifecycle
-
-    -   servlet의 동작 순서
+- servlet의 동작 순서
         1.  클라이언트에서 HTTP Request 발생
         2.  Servlet에 관한 요청이면 Web Server가 servlet이 배포(deploy)된 컨테이너에게 요청을 넘김
         3.  컨테이너는 HttpServletRequest, HttpServletResponse 객체를 생성
