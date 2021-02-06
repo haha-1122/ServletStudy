@@ -6,7 +6,11 @@
 
 
 
+<<<<<<< HEAD
 ![HTTP 프로토콜_01](img\HTTP_Protocol_01.png)
+=======
+![HTTP 프로토콜_01](img\HTTP 프로토콜_01.png)
+>>>>>>> 39356cab0cd36862beecee2b1ab6f69b638bb31e
 
 
 
@@ -26,7 +30,11 @@
 
 
 
+<<<<<<< HEAD
 ![HTTP 프로토콜_02](img\HTTP_Protocol_02.png)
+=======
+![HTTP 프로토콜_02](img\HTTP 프로토콜_02.png)
+>>>>>>> 39356cab0cd36862beecee2b1ab6f69b638bb31e
 
 
 
@@ -47,13 +55,21 @@
 
 #### HTTP 메소드
 
+<<<<<<< HEAD
 ![HTTP 프로토콜_04](img\HTTP_Protocol_04.png)
+=======
+![HTTP 프로토콜_04](img\HTTP 프로토콜_04.png)
+>>>>>>> 39356cab0cd36862beecee2b1ab6f69b638bb31e
 
 
 
 이 메소드들 중 대부분의 경우 GET 과 POST 메소드가 사용된다. 둘 다 클라이언트에서 서버로 파라미터 값을 넘겨주고 필요한 페이지를 응답받을 수 있지만 약간의 차이점을 가지고 있다.
 
+<<<<<<< HEAD
 ![HTTP 프로토콜_05](img\HTTP_Protocol_05.png)
+=======
+![HTTP 프로토콜_05](img\HTTP 프로토콜_05.png)
+>>>>>>> 39356cab0cd36862beecee2b1ab6f69b638bb31e
 
 쉽게 말하면 GET은 가져오는 것이고 POST는 수행하는 것이라고 할 수 있다. GET은 서버로부터 정보를 조회하기 위해 설계된 메소드이고 POST는 리소스를 생성/변경 하기위해 설계된 메소드이다. 
 
